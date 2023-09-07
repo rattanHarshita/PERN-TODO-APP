@@ -1,5 +1,8 @@
 # pern-todo-app
 
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/03/PERN.png" />
+PostgreSQL
+Express
+React
+Nodejs
 
-https://www.youtube.com/watch?v=ldYcgPKEZC8
+To do app 
